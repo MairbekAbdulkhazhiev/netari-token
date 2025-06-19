@@ -1,0 +1,14 @@
+{
+  "name": "Netari",
+  "symbol": "NTI",
+  "address": "225Vy7jGCdCRGxGxMWuD1cBeDib4qRpuVTgQBoo9DrMx",
+  "decimals": 9,
+  "chainId": 101,
+  "logoURI": "https://raw.githubusercontent.com/netari-labs/netari-token/main/assets/mainnet/225Vy7jGCdCRGxGxMWuD1cBeDib4qRpuVTgQBoo9DrMx.png",
+  "tags": ["utility-token", "defi"],
+  "extensions": {
+    "website": "https://netari.xyz",
+    "twitter": "https://twitter.com/netarilabs",
+    "description": "Netari (NTI) is a utility token designed to fuel decentralized applications and next-gen finance tools on Solana."
+  }
+}
