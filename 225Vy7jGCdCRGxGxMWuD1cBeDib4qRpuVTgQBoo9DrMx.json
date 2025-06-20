@@ -1,0 +1,13 @@
+{
+  "name": "Netari",
+  "symbol": "NTI",
+  "uri": "https://netari.xyz/token.json",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "EakNjm9GKYAG7ruR272V9RoHb43cAYXLkPjX1Azgh5VJ",
+      "verified": true,
+      "share": 100
+    }
+  ]
+}
